@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deigemendes
-- 👀 I’m interested in Php, Advpl Totvs,  Laravel, Vue.js and Elixir !
+- 👀 I’m interested in Php, Advpl Totvs, vb6, Laravel, Vue.js and Elixir !
 - 🌱 I’m currently learning Php, Advpl and elixir 
 - 💞️ I’m looking to collaborate on open tssource projec
 - 📫 How to reach me ...
